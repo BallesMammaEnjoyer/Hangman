@@ -3,4 +3,3 @@ public class novadfiler {
         String[] ord = {"röd"};
     }
 
-}
